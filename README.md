@@ -1,11 +1,11 @@
 # Hi, I'm Gabriel Cisneros 👋
-### Front-End Mobile/Web Developer 👨‍💻 | Student 📚
+### Front-End Mobile Developer 👨‍💻 | Student 📚
 
  ![Laboratory 研究室](https://github.com/user-attachments/assets/7458da00-22e5-4bac-a09c-371adff77328)
 
 ## __ABOUT ME__
 
-I'm a <strong>front-end developer</strong>, specialized/with expertise in mobile development in <strong>JavaScript/TypeScript</strong> with Ionic Framework using Angular and Capacitor, and currently learning <strong>React JS</strong> and <strong>React Native</strong>. I'm passionate about solving problems, working in personal projects, improving my skills and learning new technologies and skills to be a better, skillest and more efficient as a programmer.
+I'm a <strong>front-end developer</strong>, specialized in mobile development using <strong>JavaScript/TypeScript</strong> with Ionic Framework/Angular and Capacitor and <strong>React Native</strong>. I'm passionate about solving problems, working in personal projects, improving my skills and learning new technologies and skills to be a better, skillest and more efficient programmer.
 
 ### Connect with me:   
 
@@ -28,6 +28,7 @@ I'm a <strong>front-end developer</strong>, specialized/with expertise in mobile
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) 
 ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
