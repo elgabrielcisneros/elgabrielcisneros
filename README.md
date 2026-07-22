@@ -5,7 +5,7 @@
 
 ## __ABOUT ME__
 
-I'm a <strong>front-end developer</strong>, specialized in mobile development using <strong>JavaScript/TypeScript</strong> with Ionic Framework/Angular and Capacitor and <strong>React Native</strong>. I'm passionate about solving problems, working in personal projects, improving my skills and learning new technologies and skills to be a better, skillest and more efficient programmer.
+I'm a <strong>front-end developer</strong>, specialized in mobile development using <strong>JavaScript/TypeScript</strong> with <strong>React Native/Expo</strong>. I'm passionate about solving problems, working in personal projects, improving my skills and learning new technologies and skills to be a better, skillest and more efficient programmer.
 
 ### Connect with me:   
 
