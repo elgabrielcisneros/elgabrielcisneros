@@ -1,11 +1,11 @@
 # Hi, I'm Gabriel Cisneros 👋
-### Front-End Mobile Developer 👨‍💻 | Student 📚
+### Mobile Developer 👨‍💻 | Student 📚
 
  ![Laboratory 研究室](https://github.com/user-attachments/assets/7458da00-22e5-4bac-a09c-371adff77328)
 
 ## __ABOUT ME__
 
-I'm a <strong>front-end developer</strong>, specialized in mobile development using <strong>JavaScript/TypeScript</strong> with <strong>React Native/Expo</strong>. I'm passionate about solving problems, working in personal projects, improving my skills and learning new technologies and skills to be a better, skillest and more efficient programmer.
+I specialize in mobile development using <strong>JavaScript/TypeScript</strong> with <strong>React Native/Expo</strong>. I'm passionate about solving problems, working in personal projects, improving my skills and learning new technologies, workflows and skills to be a better, skillest and more efficient programmer.
 
 ### Connect with me:   
 
